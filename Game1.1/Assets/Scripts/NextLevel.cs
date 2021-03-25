@@ -25,7 +25,7 @@ public class NextLevel : MonoBehaviour
     private void OnTriggerEnter(Collider c)
     {
 
-        if(c.CompareTag(TagName) )
+        if(c.CompareTag(TagName))
         {
             SceneManager.LoadScene(SceneName);
             

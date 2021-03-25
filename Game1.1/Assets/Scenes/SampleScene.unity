@@ -830,7 +830,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 2.132084, z: 5e-43, w: 2.2653275}
+  m_BoundingSphereOverride: {x: 991582300, y: 2.7375776e+20, z: 2.789109e+29, w: 1.0899094e+27}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1458,7 +1458,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 5850c4fb0bfafcb4b9572bbd9189bbdf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1495,7 +1495,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1317224667}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 33, y: 6, z: 7}
+  m_LocalPosition: {x: 33, y: 6, z: 8.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2311,7 +2311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58f082c6a4bced747bfc392a6673ffeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: Level 2
+  SceneName: Level2
   TagName: Goal
 --- !u!1 &1928132626
 GameObject:
