@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9A0C4883-519A-0B35-FF4F-26CFE844412B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FirstPersonController.cs">
+    <Files>
+      <File FileName="Assets/FirstPersonController.cs" Line="76" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="R3DI_L2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27db4cf5-e059-4b91-82ea-2cb1a41669be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
